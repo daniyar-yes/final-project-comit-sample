@@ -1,0 +1,6 @@
+{
+  "id": "categories",
+  "home-appliances": ["vacuum-cleaner", "microwave", "toaster", "hand blender"],
+  "Phones": ["iPhone", "Pixel", "Galaxy"],
+  "tv": ["Toshiba", "Samsung", "Roku", "Hisense", "LG"]
+}
